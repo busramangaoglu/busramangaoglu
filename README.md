@@ -1,7 +1,7 @@
 ## 👩‍💻 About Me  
 **Büşra Mangaoğlu**  
 Computer Engineering Student  
-Interested in **Mobile Development**, **Data Technologies** and **Log Analysis**
+Interested in **Mobile Development**, **Data Technologies** 
 
 
 
