@@ -8,7 +8,7 @@ Interested in **Mobile Development**, **Data Technologies** and **Log Analysis**
 ## 📫 Connect with Me  
 - Email: busramangaoglu@gmail.com  
 
----
+
 
 ### 🛠️ Languages and Tools:
 <div align="center">
