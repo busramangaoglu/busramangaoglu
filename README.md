@@ -44,9 +44,7 @@ Interested in **Mobile Development**, **Data Technologies** and **Log Analysis**
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" title="Elasticsearch" alt="Elasticsearch" width="40" height="40"/>
   </a>&nbsp;
 
-  <a href="https://www.elastic.co/logstash/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" title="Logstash" alt="Logstash" width="40" height="40"/>
-  </a>&nbsp;
+
 
   <a href="https://www.elastic.co/kibana/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" title="Kibana" alt="Kibana" width="40" height="40"/>
