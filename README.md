@@ -57,5 +57,12 @@ Interested in **Mobile Development**, **Data Technologies** and **Log Analysis**
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
   </a>&nbsp;
+  <a href="https://www.mysql.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
+</a>&nbsp;
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
+</a>&nbsp;
+
 
 </div>
