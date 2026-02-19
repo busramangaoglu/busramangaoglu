@@ -6,7 +6,7 @@ Interested in **Mobile Development**, **Data Technologies**
 
 
 ## 📫 Connect with Me  
-- Email: busramangaoglu@gmail.com  
+- Email: mangabusraa@gmail.com  
 
 
 
